@@ -1,2 +1,2 @@
 # projet-
-permanent-link = "projet.html"
+[index.html](projet.html)
