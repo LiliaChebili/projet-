@@ -1,2 +1,2 @@
 # projet-
-permanent-link = projet.html
+permanent-link = "projet.html"
