@@ -1,4 +1,4 @@
 # projet-
 ---
-permalink: /projet.html
+permalink: /index.html
 ---
