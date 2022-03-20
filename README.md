@@ -1,2 +1,2 @@
 # projet-
-[index.html](projet.html)
+permalink: /projet.html
